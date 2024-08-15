@@ -5,5 +5,5 @@ The orginal dataset is  [FinGPT_finance_dataset.xlsx](FinGPT_finance_dataset.xls
 
 The [Finance_Research_first_paper_full_code.ipynb.ipynb](Finance_Research_first_paper_full_code.ipynb) file contains the expermenation code
 
-The [new_results_with_few_prompts.csv] (new_results_with_few_prompts.csv) file contains results of few-shot prompting
+The [new_results_with_few_prompts.csv](new_results_with_few_prompts.csv) file contains results of few-shot prompting
  
