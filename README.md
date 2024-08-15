@@ -3,4 +3,7 @@ Exploring the Readiness of Prominent Small Language Models for the Democratizati
 
 The orginal dataset is  [FinGPT_finance_dataset.xlsx](FinGPT_finance_dataset.xlsx)
 
-The [finance_file.ipynb](finance_file.ipynb) file contains the expermenation code
+The [Finance_Research_first_paper_full_code.ipynb.ipynb](Finance_Research_first_paper_full_code.ipynb) file contains the expermenation code
+
+The [new_results_with_few_prompts.csv] (new_results_with_few_prompts.csv) file contains results of few-shot prompting
+ 
