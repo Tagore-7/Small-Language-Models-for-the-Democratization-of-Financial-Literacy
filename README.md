@@ -1,5 +1,6 @@
 # Democratization-of-Financial-Literacy
 Exploring the Readiness of Prominent Small Language Models for the Democratization of Financial Literacy
+
 Read the paper: [https://arxiv.org/abs/2410.07118]
 
 The orginal dataset is  [FinGPT_finance_dataset.xlsx](FinGPT_finance_dataset.xlsx)
